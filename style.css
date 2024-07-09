@@ -22,11 +22,12 @@ header{
    ul{
     display: flex;
     align-content: center;
-    justify-content: center;
+    justify-content:space-between;
     color:white;
     list-style: none;
-    margin-right: 70px;
-}
+    padding: 30px;
+    }
+
 
 nav {
     display: flex;
